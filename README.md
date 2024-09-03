@@ -12,13 +12,17 @@ This website will provider schools with infomation surrounding my teaching caree
 
 ### How to Use
 
-*To use the website, please use the naigavtion bar at the top, in which I have six pages categorised for you to explore! Links on the pages will take you further into more research, some of my projects, or other pages in this website. 
+* To use the website, please use the naigavtion bar at the top, in which I have six pages categorised for you to explore! Links on the pages will take you further into more       research, some of my projects, or other pages in this website. 
 * Will work on any device, whether that be a computer, laptop, phone or ipad as I have coded the correct page dimensions for each. 
-
 
 ## Authors
 
-Georgia Bywater
+Georgia Bywater, s00324934
+
+## Assignment Details
+
+* COMP208, A1
+* Website Proposal
 
 
 ## Template
